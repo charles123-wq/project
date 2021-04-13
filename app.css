@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-sizing: border-box;
+}
+
+body{
+    background-color: rgb(208, 215, 230);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.wrapper{
+    background-color: #fcfcfc;
+    width: 500px;
+    padding: 25px;
+    margin: 20px auto 0;
+}
+.wrapper h2{
+    background-color: rgb(153, 28, 28)5);
+    color: #4345b4;
+    font-size: 24px;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 3px dotted #333;
+}
+h4{
+padding-bottom: 5px;
+color: #4345b4;
+}
+.input-group{
+    margin-bottom: 8px;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    padding: 5px 0;
+}
